@@ -8,4 +8,4 @@ def most_frequent(str):
         else:
             dict[n] = 1
     return dict
-print(most_frequent('Mississippi'))
+print(most_frequent('mississippi'))
